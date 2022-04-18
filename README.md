@@ -19,19 +19,20 @@
 
 
 - 🔭 I’m currently building analytical projects that drive impact. 
-- 😄 Proficient in SQL, data preprocessing and analysis, statistics and excel.
-- 🥰 Domain knowledge in structural/civil engineering, real estate and stock investing. 
 - 🤔 I’m looking for help with breaking into the data analytics/data science industry.
+
 - 🌱 I’m currently learning ML/AI algorithms.
 - 👯 I’m looking to collaborate on projects that solve real world problems. 
 - 📫 How to reach me: Please connect on instagram/linkedin or email me at kelvinloh97@yahoo.com 
 - ⚡ Fun fact: I have pointy ears like Spock from Star Trek. 
 
 **Languages and Tools:**
-- SQL
-- Python
-- Excel
-- Statistics and probabilities
+- 🥰 SQL
+- 🥰 Domain knowledge in structural/civil engineering, real estate and stock investing. 
+- 🥰 Data cleaning and preprocessing 
+- 🥰 Python
+- 🥰 Excel
+- 🥰 Statistics and probabilities
 
 **Proficient in following packages:**
 - Pandas
