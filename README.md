@@ -1,6 +1,6 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am Kelvin. Self thought, Aspiring data analyst/scientist. Part time explorer of data, full time foodie.
+### I am Kelvin. A self thought, aspiring data analyst/scientist. Part time explorer of data, full time foodie.
 <a href="https://www.linkedin.com/in/kelvin-loh-592315131/">
   <img align="left" alt="Kelvin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
