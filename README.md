@@ -18,27 +18,27 @@
 <br>
 
 
-🔭 I’m currently building analytical projects that drive impact. 
-🤔 I’m looking for help with breaking into the data analytics/data science industry.
-🌱 I’m currently learning ML/AI algorithms.
-👯 I’m looking to collaborate on projects that solve real world problems. 
-📫 How to reach me: Please connect on instagram/linkedin or email me at kelvinloh97@yahoo.com 
-⚡ Fun fact: I have pointy ears like Spock from Star Trek. 
+🔭 I’m currently building analytical projects that drive impact. <br>
+🤔 I’m looking for help with breaking into the data analytics/data science industry.<br>
+🌱 I’m currently learning ML/AI algorithms.<br>
+👯 I’m looking to collaborate on projects that solve real world problems. <br>
+📫 How to reach me: Please connect on instagram/linkedin or email me at kelvinloh97@yahoo.com <br>
+⚡ Fun fact: I have pointy ears like Spock from Star Trek. <br>
+<br>
+**Languages and Tools:**<br><br>
+🥰 SQL<br>
+🥰 Domain knowledge in structural/civil engineering, real estate and stock investing. <br>
+🥰 Data cleaning and preprocessing <br>
+🥰 Python<br>
+🥰 Excel<br>
+🥰 Statistics and probabilities<br>
 
-**Languages and Tools:**
-🥰 SQL
-🥰 Domain knowledge in structural/civil engineering, real estate and stock investing. 
-🥰 Data cleaning and preprocessing 
-🥰 Python
-🥰 Excel
-🥰 Statistics and probabilities
-
-**Proficient in following packages:**
-😎Pandas
-😎Numpy
-😎Scikit-learn
-😎matplotlib
-😎seaborn
+**Proficient in following packages:**<br><br>
+😎Pandas<br>
+😎Numpy<br>
+😎Scikit-learn<br>
+😎matplotlib<br>
+😎seaborn<br>
 
 ## 🗂️ Highlight Projects
 
