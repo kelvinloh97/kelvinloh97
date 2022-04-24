@@ -13,6 +13,8 @@
   <img align="left" alt="Kelvin's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
+<a href = "https://public.tableau.com/app/profile/kelvin4899#!/">
+  <img align="left" alt="Kelvin's Tableau" width="22px" src=/>
 <br>
 <br>
 <br>
