@@ -14,7 +14,9 @@
 </a>
 
 <a href = "https://public.tableau.com/app/profile/kelvin4899#!/">
-  <img align="left" alt="Kelvin's Tableau" width="22px" src="https://github.com/kelvinloh97/data-clean-salary-survey-data-/blob/main/tableau-software.svg"/>
+  <img align="left" alt="Kelvin's Tableau" width="22px" src="https://github.com/kelvinloh97/data-clean-salary-survey-data-/blob/main/tableau-software.svg" />
+</a>
+
 <br>
 <br>
 <br>
