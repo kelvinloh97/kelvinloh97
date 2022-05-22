@@ -31,7 +31,6 @@
 <br>
 **Languages and Tools:**<br><br>
 🥰 SQL<br>
-🥰 Domain knowledge in structural/civil engineering, real estate and stock investing. <br>
 🥰 Data cleaning and preprocessing <br>
 🥰 Python<br>
 🥰 Tableau<br>
